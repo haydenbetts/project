@@ -3,7 +3,8 @@ Goal finish this by Saturday:
 The first thing that we need is a good content management system (CMS) which actually allows hosts to create the pages.
 The database will then store the actual content of the project page as well as the metadata associated with that page.
 The template engine will then structure the data which the host inputs into a uniform format. In addition to the project
-database we need a database for the users which stores their priveleges and hashed ids.
+database we need a database for the users which stores their priveleges and hashed ids. Access Control Lists (ACL)
+also occur here.
 
 Goal finish this by Sunday:
 
