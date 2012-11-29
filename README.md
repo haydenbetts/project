@@ -1,3 +1,4 @@
+Maybe we should use a document oriented database, i.e. mongodb, it seems better tailored to the structure of the site.
 
 
 Goal finish this by Saturday:
